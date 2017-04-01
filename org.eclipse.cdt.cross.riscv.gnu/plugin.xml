@@ -1471,7 +1471,7 @@
          </option>
       </tool>
       <tool
-            command="risc64-unknown-elf-g++"
+            command="riscv64-unknown-elf-g++"
             commandLineGenerator="org.eclipse.cdt.cross.riscv.gnu.RISCVManagedCommandLineGenerator"
             errorParsers="org.eclipse.cdt.core.GLDErrorParser"
             id="org.eclipse.cdt.cross.riscv.gnu.cpp.linker"
